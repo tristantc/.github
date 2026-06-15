@@ -1,0 +1,4 @@
+
+The Process Optimization & Modeling for Minerals Sustainability (PrOMMiS) initiative is focused on rapidly creating process modeling and optimization capabilities to de-risk and compress the “discovery to deployment” timeline for CMM technologies. PrOMMiS enables users to identify, design, scale and integrate CMM and REE processing systems, leveraging expertise from 50+ years of cumulative DOE investment in CMM R&D and modeling frameworks.
+
+This multiple lab partnership, led by NETL, has created the first open source modeling platform to evaluate pathways for CMM production and perform multi-criteria optimizations, allowing rapid evaluation of how novel system designs impact environmental and economic performance. These foundational capabilities enable the broader modeling and design of optimized domestic CMM supply chains—strengthening U.S. national security, economic competitiveness, and environmental responsibility.
